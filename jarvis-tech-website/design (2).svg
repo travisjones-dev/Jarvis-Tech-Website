@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="48" height="48" viewBox="0 0 48 48" xml:space="preserve">
+<desc>Created with Fabric.js 5.3.0</desc>
+<defs>
+</defs>
+<g transform="matrix(0.07061717789481256 0 0 0.07061717789481256 24.085249242804764 24.068199394243816)" id="background-e7d94e91-10ce-4199-a4d9-36fa93f9b1a9"  >
+<rect style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(127,127,127); fill-rule: nonzero; opacity: 1;"  paint-order="stroke"  x="-340" y="-340" rx="0" ry="0" width="680" height="680" />
+</g>
+<g transform="matrix(0.6400000000000001 0 0 0.6400000000000001 24.085249242804764 24.068199394243834)" id="maker-logo"  >
+<g style=""  paint-order="stroke"   >
+		<g transform="matrix(1 0 0 1 3.55271e-15 -0.6255449958696246)" id="text-logo"  >
+<g style=""  paint-order="stroke"   >
+		<g transform="matrix(1 0 0 1 0 -1.77636e-15)" id="text-logo-path-0"  >
+<filter id="SVGID_298055" y="-29.316770186335404%" height="158.6335403726708%" x="-20%" width="140%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="0" dy="3" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(255,255,255)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<path style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;filter: url(#SVGID_298055);"  paint-order="stroke"  transform=" translate(-19.320000000000004, 16.1)" d="M 5.61 -20.98 L 0.69 -20.98 L 0.69 0 L 37.95 0 L 37.95 -32.2 L 19.41 -32.2 C 16.24 -32.2 14.49 -30.5 14.49 -27.32 C 14.49 -24.15 16.24 -22.36 19.41 -22.36 L 28.11 -22.36 L 28.11 -9.84 L 2.07 -9.84 L 2.07 -11.22 L 5.61 -11.22 C 8.79 -11.22 10.53 -12.93 10.53 -16.1 C 10.53 -19.27 8.79 -20.98 5.61 -20.98 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
